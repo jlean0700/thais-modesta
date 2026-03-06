@@ -22,6 +22,10 @@ html, body {
     font-family: var(--fonte1);
 }
 
+ul {
+    padding: 30px;
+}
+
 header {
     background-color: black;
     color: white;
@@ -86,12 +90,12 @@ section.imagem p {
 }
 
 section#img01 {
-    background-image: url(../imagens/background001.jpg);
+    background-image: url(../imagens/thais1.jpg);
     background-position: center;
 }
 
 section#img02 {
-    background-image: url(../imagens/background002.jpg);
+    background-image: url(../imagens/thais2.jpg);
 }
 
 footer {
